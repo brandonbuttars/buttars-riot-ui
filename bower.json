@@ -1,0 +1,28 @@
+{
+  "name": "Buttars Riot UI",
+  "version": "0.0.0",
+  "description": "Responsive collection of UI components and layouts using RiotJS.",
+  "main": "bower.json",
+  "keywords": [
+    "riotjs",
+    "bower",
+    "ui",
+    "framework",
+    "components"
+  ],
+  "authors": [
+    "Brandon Buttars"
+  ],
+  "license": "MIT",
+  "homepage": "http://zero14.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "riot": "~2.0.15"
+  }
+}
