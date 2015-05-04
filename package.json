@@ -1,0 +1,31 @@
+{
+  "name": "buttars-riot-ui",
+  "version": "1.0.0",
+  "description": "UI framwork using RiotJS.",
+  "main": "bower.js",
+  "dependencies": {
+    "riot": "^2.0.15"
+  },
+  "devDependencies": {
+    "riot": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonbuttars/buttars-riot-ui.git"
+  },
+  "keywords": [
+    "riotjs",
+    "ui",
+    "bower",
+    "components"
+  ],
+  "author": "Brandon Buttars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonbuttars/buttars-riot-ui/issues"
+  },
+  "homepage": "https://github.com/brandonbuttars/buttars-riot-ui"
+}
